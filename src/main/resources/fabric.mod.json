@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "neverhungry",
+  "version": "${version}",
+  "name": "NeverHungry",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/neverhungry/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.Victor.neverhungry.client.NeverhungryDataGenerator"
+    ],
+    "client": [
+      "net.Victor.neverhungry.client.NeverhungryClient"
+    ],
+    "main": [
+      "net.Victor.neverhungry.Neverhungry"
+    ]
+  },
+  "mixins": [
+    "neverhungry.mixins.json",
+    {
+      "config": "neverhungry.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
