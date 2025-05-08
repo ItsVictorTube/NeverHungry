@@ -21,11 +21,7 @@
     ]
   },
   "mixins": [
-    "neverhungry.mixins.json",
-    {
-      "config": "neverhungry.client.mixins.json",
-      "environment": "client"
-    }
+    "neverhungry.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.16.1",
