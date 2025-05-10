@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        " B "
+    ],
+    "key": {
+        "#": "neverhungry:hot_chocolate",
+        "B": "neverhungry:blueberry_breadstick"
+    },
+    "result": {
+        "id": "neverhungry:pocky_diamond",
+        "count": 1
+    },
+    "group": "NeverHungry"
+}

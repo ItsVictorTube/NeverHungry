@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "neverhungry:breadstick",
+        "neverhungry:blueberries"
+    ],
+    "result": {
+        "id": "neverhungry:blueberry_breadstick",
+        "count": 1
+    },
+    "group": "NeverHungry"
+}

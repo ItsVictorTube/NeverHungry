@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#C#",
+        " C "
+    ],
+    "key": {
+        "#": "neverhungry:hot_chocolate",
+        "C": "minecraft:cookie"
+    },
+    "result": {
+        "id": "neverhungry:pocky_stone",
+        "count": 1
+    },
+    "group": "NeverHungry"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:bread"
+  },
+  "result": {
+    "id": "neverhungry:breadstick",
+    "count": 1
+  },
+  "group": "NeverHungry"
+}

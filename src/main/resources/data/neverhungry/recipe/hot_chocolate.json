@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "#C ",
+    "   "
+  ],
+  "key": {
+    "#": "minecraft:water_bucket",
+    "C": "minecraft:cocoa_beans"
+  },
+  "result": {
+    "id": "neverhungry:hot_chocolate",
+    "count": 1
+  },
+  "group": "NeverHungry"
+}

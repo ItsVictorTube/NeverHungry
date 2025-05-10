@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#S#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:blue_dye",
+        "S": "minecraft:sweet_berries"
+    },
+    "result": {
+        "id": "neverhungry:blueberries",
+        "count": 1
+    },
+    "group": "NeverHungry"
+}

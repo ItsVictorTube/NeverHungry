@@ -1,7 +1,12 @@
 {
-  "item.neverhungry.pocky_diamond": "Chocolate Pock(Blueberry Flavour inside)",
+  "item.neverhungry.blueberries": "Blueberries",
+  "item.neverhungry.blueberry_breadstick": "Blueberry Breadstick",
+  "item.neverhungry.breadstick": "Breadstick",
+  "item.neverhungry.hot_chocolate": "Hot Chocolate",
+  "item.neverhungry.pocky_diamond": "Chocolate Pocky(Blueberry Flavour inside)",
   "item.neverhungry.pocky_golden": "Chocolate Pocky(24k Gold)",
   "item.neverhungry.pocky_iron": "Chocolate Pocky(White Breadstick)",
   "item.neverhungry.pocky_stone": "Chocolate Pocky(Cookies and Cream Breadstick)",
-  "item.neverhungry.pocky_wood": "Chocolate Pocky"
+  "item.neverhungry.pocky_wood": "Chocolate Pocky",
+  "item.neverhungry.white_breadstick": "White Breadstick"
 }

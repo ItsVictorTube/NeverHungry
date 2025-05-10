@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#N#",
+        "GNG"
+    ],
+    "key": {
+        "#": "neverhungry:hot_chocolate",
+        "N": "neverhungry:breadstick",
+        "G": "minecraft:gold_nugget"
+    },
+    "result": {
+        "id": "neverhungry:pocky_golden",
+        "count": 1
+    },
+    "group": "NeverHungry"
+}
