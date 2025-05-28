@@ -48,7 +48,3 @@ Currently, I only have Pocky added, but I plan to add **many more foods** in the
 ## 💬 Feedback & Suggestions
 
 Have an idea for a new snack or feature? Open an issue or get in touch — I’d love to hear from you!
-
-💬 Feedback & Suggestions
-
-Have an idea for a new snack or feature? Open an issue or get in touch — I’d love to hear from you!
