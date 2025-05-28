@@ -1,52 +1,53 @@
+# 🍫 NeverHungry - A Minecraft Mod
 
+**NeverHungry** is a fun and flavorful Minecraft mod that adds a tasty twist to your survival experience!
 
-🍫 NeverHungry - A Minecraft Mod
+## 🥢 What Does It Do?
 
-NeverHungry is a fun and flavorful Minecraft mod that adds a tasty twist to your survival experience!
+Adds **Pocky** to your game, which gives special effects upon consumption. Each Pocky has slightly different effects depending on the taste and sugar content of the Pocky.
 
-🥢 What Does It Do?
+Currently, I only have Pocky added, but I plan to add **many more foods** in the future — so stay tuned for delicious updates!
 
-Adds Pocky to your game, which gives special effects upon consumption. Each Pocky has slightly different effects depending on the taste and sugar content of the Pocky.
+## 📦 Food Items
 
-Currently, I only have Pocky added, but I plan to add many more foods in the future — so stay tuned for delicious updates!
-
-📦 Food Items
-
-Chocolate Pocky
-
-Chocolate Pocky with 24k Gold Leaf
-
-Chocolate Pocky with Blueberry Filling
-
-Chocolate Pocky with White Breadstick (sweeter variant)
-
-Chocolate Pocky with Cookies & Cream Breadstick
-
-Hot Chocolate
+- Chocolate Pocky  
+- Chocolate Pocky with 24k Gold Leaf  
+- Chocolate Pocky with Blueberry Filling  
+- Chocolate Pocky with White Breadstick (sweeter variant)  
+- Chocolate Pocky with Cookies & Cream Breadstick  
+- Hot Chocolate  
 
 🔮 More foods coming soon...
 
-🛠️ Installation Instructions
+## 🛠️ Installation Instructions
 
-Download FabricMake sure you have the Fabric Mod Loader installed for the correct version of Minecraft. You can get it from the official Fabric website.
+1. **Download Fabric**  
+   Make sure you have the Fabric Mod Loader installed for the correct version of Minecraft. You can get it from the official [Fabric website](https://fabricmc.net/).
 
-Install Fabric API Some mods also need the Fabric API. Check if it's a dependency for NeverHungry and download it if needed.
+2. **Install Fabric API**  
+   Some mods require the Fabric API. You can download it from the [Fabric API page on Modrinth](https://modrinth.com/mod/fabric-api) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
 
-Download the Mod FileGet the latest version of NeverHungry-x.x.x.jar from the Releases page or from Modrinth.
+3. **Download the Mod File**  
+   Get the latest version of `NeverHungry-x.x.x.jar` from the [Releases](#) page or from [Modrinth](https://modrinth.com/).
 
-Place the Mod in the Mods Folder
+4. **Place the Mod in the Mods Folder**  
+   - Navigate to your Minecraft directory:  
+     - **Windows:** `%appdata%\.minecraft\mods`  
+     - **macOS:** `~/Library/Application Support/minecraft/mods`  
+     - **Linux:** `~/.minecraft/mods`  
+   - Drop the `.jar` file into the `mods` folder.
 
-Navigate to your Minecraft directory:Windows: %appdata%\.minecraft\modsmacOS: ~/Library/Application Support/minecraft/modsLinux: ~/.minecraft/mods
+5. **Launch Minecraft**  
+   Start the game using the Fabric profile. Enjoy your Pocky-powered adventure!
 
-Drop the .jar file into the mods folder.
+## 🧁 Future Plans
 
-Launch MinecraftStart the game using the Fabric profile. Enjoy your Pocky-powered adventure!
+- Add more food items with unique effects  
+- Add compatibility with REI (Roughly Enough Items)
 
-🧁 Future Plans
+## 💬 Feedback & Suggestions
 
-Add more food items with unique effects
-
-Add compatibility with REI (Roughly Enough Items)
+Have an idea for a new snack or feature? Open an issue or get in touch — I’d love to hear from you!
 
 💬 Feedback & Suggestions
 
